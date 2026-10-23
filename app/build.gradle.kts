@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "br.ulbra.gamedex"
+    namespace = "br.ulbra.jogos"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "br.ulbra.gamedex"
+        applicationId = "br.ulbra.jogos"
         minSdk = 26
         targetSdk = 37
         versionCode = 1

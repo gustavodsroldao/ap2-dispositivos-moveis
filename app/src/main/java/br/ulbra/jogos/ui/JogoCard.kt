@@ -1,4 +1,4 @@
-package br.ulbra.gamedex.ui
+package br.ulbra.jogos.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -27,7 +27,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
-import br.ulbra.gamedex.model.Jogo
+import br.ulbra.jogos.model.Jogo
 
 @Composable
 fun JogoCard(

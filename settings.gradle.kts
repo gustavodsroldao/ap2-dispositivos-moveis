@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GameDex"
+rootProject.name = "CatalogoJogos"
 include(":app")

@@ -1,6 +1,6 @@
-package br.ulbra.gamedex.data
+package br.ulbra.jogos.data
 
-import br.ulbra.gamedex.model.Jogo
+import br.ulbra.jogos.model.Jogo
 
 object JogoRepository {
 

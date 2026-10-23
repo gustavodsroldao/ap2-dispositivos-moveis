@@ -1,4 +1,4 @@
-package br.ulbra.gamedex.ui
+package br.ulbra.jogos.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -35,7 +35,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
-import br.ulbra.gamedex.data.JogoRepository
+import br.ulbra.jogos.data.JogoRepository
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

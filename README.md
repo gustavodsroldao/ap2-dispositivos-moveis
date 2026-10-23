@@ -20,8 +20,8 @@ Um catálogo moderno de jogos com capas oficiais da Steam, categorias, notas de 
 ## 📂 Estrutura de Pastas do Projeto
 
 ```text
-app/src/main/java/br/ulbra/gamedex/
-├── MainActivity.kt               ← Ponto de entrada do app (setContent e GameDexTheme)
+app/src/main/java/br/ulbra/jogos/
+├── MainActivity.kt               ← Ponto de entrada do app (setContent e JogosTheme)
 ├── model/
 │   └── Jogo.kt                   ← Data class com 7 campos
 ├── data/

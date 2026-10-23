@@ -1,4 +1,4 @@
-package br.ulbra.gamedex.ui.theme
+package br.ulbra.jogos.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

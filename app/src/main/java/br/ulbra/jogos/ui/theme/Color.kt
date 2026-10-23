@@ -1,8 +1,8 @@
-package br.ulbra.gamedex.ui.theme
+package br.ulbra.jogos.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-// GameDex Custom Color Palette (Gamer modern theme: Teal, Indigo, Amber)
+// Custom Color Palette (Gamer modern theme: Teal, Indigo, Amber)
 val TealPrimary = Color(0xFF00796B)
 val TealPrimaryDark = Color(0xFF4DB6AC)
 val TealPrimaryContainer = Color(0xFFE0F2F1)

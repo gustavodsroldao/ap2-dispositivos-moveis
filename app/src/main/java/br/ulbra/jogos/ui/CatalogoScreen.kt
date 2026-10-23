@@ -1,4 +1,4 @@
-package br.ulbra.gamedex.ui
+package br.ulbra.jogos.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.PaddingValues
@@ -16,7 +16,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import br.ulbra.gamedex.data.JogoRepository
+import br.ulbra.jogos.data.JogoRepository
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -32,7 +32,7 @@ fun CatalogoScreen(
             CenterAlignedTopAppBar(
                 title = {
                     Text(
-                        text = "GameDex",
+                        text = "Catálogo de Jogos",
                         fontWeight = FontWeight.Bold
                     )
                 },

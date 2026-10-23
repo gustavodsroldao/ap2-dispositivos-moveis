@@ -1,4 +1,4 @@
-package br.ulbra.gamedex.ui.theme
+package br.ulbra.jogos.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -43,7 +43,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun GameDexTheme(
+fun JogosTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Set dynamicColor to false by default to ensure custom group colors are visible
     dynamicColor: Boolean = false,

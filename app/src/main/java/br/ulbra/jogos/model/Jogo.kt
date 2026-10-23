@@ -1,4 +1,4 @@
-package br.ulbra.gamedex.model
+package br.ulbra.jogos.model
 
 data class Jogo(
     val id: Int,

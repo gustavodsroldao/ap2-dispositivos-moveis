@@ -1,4 +1,4 @@
-package br.ulbra.gamedex.ui
+package br.ulbra.jogos.ui
 
 import kotlinx.serialization.Serializable
 
