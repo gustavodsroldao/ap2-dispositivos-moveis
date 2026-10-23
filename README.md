@@ -8,9 +8,8 @@
 
 ## 👥 Integrantes do Grupo
 
-- **Integrante 1:** [Nome Completo aqui]
-- **Integrante 2:** [Nome Completo aqui]
-- **Integrante 3 (opcional):** [Nome Completo aqui]
+- **Integrante 1:Eduardo Lopes Esfolha
+- **Integrante 2: Gustavo da Silveira Roldão
 
 ---
 
