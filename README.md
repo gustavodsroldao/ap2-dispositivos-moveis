@@ -37,6 +37,3 @@ app/src/main/java/br/ulbra/jogos/
         ├── Theme.kt              ← Configuração do MaterialTheme (Light e Dark)
         └── Type.kt               ← Tipografia customizada
 ```
-
----
-- **Integrante C (Imagens & Design System):** Explica o uso do `AsyncImage` com Coil, o tratamento de proporção das capas da Steam (`aspectRatio(460f / 215f)`), a permissão de internet no `AndroidManifest.xml` e a paleta de cores customizada do Material 3 no `Color.kt` e `Theme.kt`.
