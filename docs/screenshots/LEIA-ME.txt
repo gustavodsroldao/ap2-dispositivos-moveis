@@ -1,0 +1,3 @@
+Cole aqui os dois prints do app rodando:
+- catalogo.png (print da tela de lista com os cards dos jogos)
+- detalhe.png (print da tela de detalhes de um dos jogos)
